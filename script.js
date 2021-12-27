@@ -6,8 +6,8 @@ const clickables = [
    document.getElementById('clickableHeading5'),
    document.getElementById('clickableHeading6'),
    document.getElementById('clickableParagraph'),
-   document.getElementById('clickableLink'),
-   document.getElementById('clickableListItem'),
+   document.getElementById('clickableUListItem'),
+   document.getElementById('clickableOListItem'),
    document.getElementById('clickableDIV'),
    document.getElementById('clickableSPAN'),
    document.getElementById('clickableIMG')
